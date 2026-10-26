@@ -6,7 +6,7 @@
 
 Welcome to my little corner!
 
-I'm a BSc IT student and self-taught aspiring developer who loves exploring technology, building web projects, and discovering the magic that happens when creativity meets code.
+I'm a student and also a self-taught aspiring developer, who loves exploring technology, building web projects, and discovering the magic that happens when creativity meets code.
 
 I'm currently learning React.js and working towards becoming a better web developer, one project, one concept, and one debugging session at a time.
 
@@ -20,19 +20,13 @@ I believe you don't have to know everything to start building. Sometimes, you ju
 - &#x20;I'm a self-taught developer who enjoys learning by building.
 - &#x20;I've been learning HTML, CSS, and JavaScript, and I'm currently completing my React.js journey.
 - &#x20;I love painting, although my free time and I have a complicated relationship.
-- &#x20;I'm curious about web development, creative design, and how technology   evolves.
+- &#x20;I'm curious about web development, creative design, and how technology evolves.
 - &#x20;I enjoy experimenting, learning new things, and turning ideas into projects.
 - &#x20;Bugs keep finding me. I'm learning how to return the favor.
 
 **A little reminder to myself:** Progress doesn't have to be perfect to be meaningful.
 
 ---
-
-## ⚙️ Tech Stack
-
-*My developer toolbox is growing, one skill at a time.*
-
-HTML CSS and JS
 
 **Currently focusing on:**
 
